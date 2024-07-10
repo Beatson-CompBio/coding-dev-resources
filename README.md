@@ -15,3 +15,5 @@ Any useful resources for the design and deployment of shiny apps
 
 -  [Storage](https://docs.posit.co/shinyapps.io/guide/storage/)
 -  [Accessing external databases](https://docs.posit.co/shinyapps.io/guide/applications/#accessing-databases-with-odbc)
+-  [Security and Compliance of shinyapps.io](https://docs.posit.co/shinyapps.io/guide/security_and_compliance)
+-   
