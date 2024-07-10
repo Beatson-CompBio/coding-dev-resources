@@ -18,3 +18,4 @@ Any useful resources for the design and deployment of shiny apps
 -  [Accessing external databases](https://docs.posit.co/shinyapps.io/guide/applications/#accessing-databases-with-odbc)
 -  [Security and Compliance of shinyapps.io](https://docs.posit.co/shinyapps.io/guide/security_and_compliance)
 -  [shinyapps.io: ubuntu default packages](https://docs.posit.co/shinyapps.io/guide/appendix/#default-system-packages)
+-  [Be aware that you should not have an explicit install.packages() call within your ui.R or server.R files.](https://docs.posit.co/shinyapps.io/guide/getting_started/#using-your-r-packages-in-the-cloud)
