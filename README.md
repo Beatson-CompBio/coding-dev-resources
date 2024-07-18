@@ -9,6 +9,8 @@ Any useful resources for the design and deployment of shiny apps
 -  [Pretty shiny widgets](https://shinyapps.dreamrs.fr/shinyWidgets/)
 -  [Improved user feedback/error messages](https://merlinoa.github.io/shinyFeedback/)
 -  [Cheatsheet](https://shiny.posit.co/r/articles/start/cheatsheet/)
+-  [Production-ready shiny guide](https://engineering-shiny.org/index.html)
+-  
 
 ## Deployment
 
