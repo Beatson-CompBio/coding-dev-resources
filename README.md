@@ -7,21 +7,21 @@ This document contains a collection of resources for software development. The r
 <details>
 <summary><a href="#bash">Bash</a></summary>
 
-- [Coding style guide](#coding-style-guides)
+- [Coding style guide](#coding-style-guide)
 
 </details>
 
 <details>
 <summary><a href="#javascript">JavaScript</a></summary>
 
-- [Coding style guides](#coding-style-guides)
+- [Coding style guide](#coding-style-guide)
 
 </details>
 
 <details>
 <summary><a href="#python">Python</a></summary>
 
-- [Coding Style](#coding-style)
+- [Coding Style guides](#coding-style-guides)
 - [Python package development guides](#python-package-development-guides)
 
 </details>
@@ -37,7 +37,7 @@ This document contains a collection of resources for software development. The r
 
 ## Bash
 
-### Coding style guides
+### Coding style guide
 
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 
@@ -45,7 +45,7 @@ This document contains a collection of resources for software development. The r
 
 JavaScript(JS) is the most popular programming language and has many style guides developed by multiple organisations. To keep things consistent, we recommend using Google's JavaScript style guide.
 
-### Coding style guides
+### Coding style guide
 
 - [Google's JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
