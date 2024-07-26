@@ -43,7 +43,7 @@ This document contains a collection of resources for software development. The r
 
 ## JavaScript
 
-To keep it consistent with the Python style guide, we recommend using Google's JavaScript style guide.
+JavaScript(JS) is the most popular programming language and has many style guides developed by multiple organisations. To keep things consistent, we recommend using Google's JavaScript style guide.
 
 ### Coding style guides
 
