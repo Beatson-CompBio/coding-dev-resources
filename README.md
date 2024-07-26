@@ -4,23 +4,50 @@ This document contains a collection of resources for software development. The r
 
 ## Table of contents
 
-- [Bash](#bash)
-    - [Coding style guide](#coding-style-guides)
-- [Python](#python)
-    - [Coding Style](#coding-style)
-    - [Python package development guides](#python-package-development-guides)
-- [JavaScript](#javascript)
-    - [Coding style guides](#coding-style-guides)
-- [R](#r)
-    - [Coding Style](#coding-style-guide)
-    - [R package development guides](#r-package-development-guides)
-    - [shiny_resources](#shiny_resources)
+<details>
+<summary><a href="#bash">Bash</a></summary>
+
+- [Coding style guide](#coding-style-guides)
+
+</details>
+
+<details>
+<summary><a href="#javascript">JavaScript</a></summary>
+
+- [Coding style guides](#coding-style-guides)
+
+</details>
+
+<details>
+<summary><a href="#python">Python</a></summary>
+
+- [Coding Style](#coding-style)
+- [Python package development guides](#python-package-development-guides)
+
+</details>
+
+<details>
+<summary><a href="#r">R</a></summary>
+
+- [Coding Style](#coding-style-guide)
+- [R package development guides](#r-package-development-guides)
+- [shiny_resources](#shiny_resources)
+
+</details>
 
 ## Bash
 
 ### Coding style guides
 
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+
+## JavaScript
+
+To keep it consistent with the Python style guide, we recommend using Google's JavaScript style guide.
+
+### Coding style guides
+
+- [Google's JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ## Python
 
@@ -44,13 +71,6 @@ As of 2021, the most comprehensive guide for developing Python packages is the `
 The following resources are also useful for developing Python packages with setuptools:
 - [Package development guide(older)](https://packaging.python.org/en/latest/overview/)
 
-## JavaScript
-
-To keep it consistent with the Python style guide, we recommend using Google's JavaScript style guide.
-
-### Coding style guides
-
-- [Google's JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ## R
 
