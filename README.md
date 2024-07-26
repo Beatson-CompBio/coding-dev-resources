@@ -14,14 +14,14 @@ This document contains a collection of resources for software development. The r
 <details>
 <summary><a href="#javascript">JavaScript</a></summary>
 
-- [Coding style guide](#coding-style-guide)
+- [Coding style guide](#coding-style-guide-1)
 
 </details>
 
 <details>
 <summary><a href="#python">Python</a></summary>
 
-- [Coding Style guides](#coding-style-guides)
+- [Coding style guides](#coding-style-guides)
 - [Python package development guides](#python-package-development-guides)
 
 </details>
@@ -29,7 +29,7 @@ This document contains a collection of resources for software development. The r
 <details>
 <summary><a href="#r">R</a></summary>
 
-- [Coding Style](#coding-style-guide)
+- [Coding style guide](#coding-style-guide-2)
 - [R package development guides](#r-package-development-guides)
 - [shiny_resources](#shiny_resources)
 
